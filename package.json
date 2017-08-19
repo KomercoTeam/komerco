@@ -1,0 +1,22 @@
+{
+  "name": "KOMERCO",
+  "version": "0.0.1",
+  "description": "A CRM",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KomercoTeam/komerco.git"
+  },
+  "author": "Komerco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KomercoTeam/komerco/issues"
+  },
+  "homepage": "https://github.com/KomercoTeam/komerco#readme",
+  "devDependencies": {
+    "electron": "^1.6.2"
+  }
+}
