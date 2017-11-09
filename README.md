@@ -1,2 +1,0 @@
-# komerco
-Komerco App
