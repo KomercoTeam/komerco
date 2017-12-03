@@ -23,3 +23,9 @@ deploy:
     secure: "00e6c1b3-ed8b-4c79-aa36-64a643bc4c00"
   app:
     master: shoppu
+notifications:
+  email:
+    recipients:
+      - yosoyvilla@gmail.com
+    on_success: never # default: change
+    on_failure: always # default: always
