@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/akveo/ngx-admin.svg?branch=master)](https://travis-ci.org/yosoyvilla/shoppu)
+[![Build Status](https://travis-ci.org/yosoyvilla/shoppu.svg?branch=master)](https://travis-ci.org/yosoyvilla/shoppu)
 # Komerco is a commerce app based on angular 4
 
 ### What's included:
